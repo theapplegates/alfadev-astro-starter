@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": Live Life",
+    "title": "Live Life",
     "base_url": "https://alfadev.paulapplegate.com",
     "base_path": "/",
     "trailing_slash": false,
@@ -10,7 +10,6 @@
     "logo_height": "47",
     "logo_text": "alfadev-astro-starter"
   },
-
   "params": {
     "footer_description": "Building cool things, one line of code (and a lot of coffee) at a time. Got questions? Or just bored? Reach out!",
     "email": "me@paulapplegate.com",
@@ -18,8 +17,7 @@
     "phone": "+704-555-0127 (but let's be honest, email is faster)",
     "contact_form_action": "#",
     "copyright": "Copyright © 2024 proudly crafted by [me](https://github.com/theapplegates/alfadev-astro-starter)"
-},
-
+  },
   "metadata": {
     "meta_author": "alfadev",
     "meta_image": "/images/logo.png",
